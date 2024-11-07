@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-while [ 1 == 1 ];
+while true;
  do
 
     who | while read -r line; 
